@@ -1,0 +1,21 @@
+StoreID,StoreName,City,Country,StoreType
+1,Tienda 1,Salta,Argentina,Retail
+2,Tienda 2,Mar del Plata,Argentina,Retail
+3,Tienda 3,Rosario,Argentina,Retail
+4,Tienda 4,Salta,Argentina,Distribuidor
+5,Tienda 5,Mendoza,Argentina,Distribuidor
+6,Tienda 6,Rosario,Argentina,Retail
+7,Tienda 7,Mar del Plata,Argentina,Distribuidor
+8,Tienda 8,Rosario,Argentina,Online
+9,Tienda 9,Salta,Argentina,Retail
+10,Tienda 10,Neuquén,Argentina,Distribuidor
+11,Tienda 11,Rosario,Argentina,Distribuidor
+12,Tienda 12,Salta,Argentina,Distribuidor
+13,Tienda 13,San Juan,Argentina,Online
+14,Tienda 14,La Plata,Argentina,Online
+15,Tienda 15,Neuquén,Argentina,Online
+16,Tienda 16,Córdoba,Argentina,Distribuidor
+17,Tienda 17,La Plata,Argentina,Online
+18,Tienda 18,San Juan,Argentina,Retail
+19,Tienda 19,Mar del Plata,Argentina,Distribuidor
+20,Tienda 20,Mar del Plata,Argentina,Online

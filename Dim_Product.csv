@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Subcategory,Brand
+1,Producto 1,Periféricos,Monitor,Marca 9
+2,Producto 2,Periféricos,Webcam,Marca 2
+3,Producto 3,Redes,Switch,Marca 3
+4,Producto 4,Redes,Access Point,Marca 3
+5,Producto 5,Redes,Router,Marca 5
+6,Producto 6,Redes,Access Point,Marca 9
+7,Producto 7,Redes,Access Point,Marca 9
+8,Producto 8,Redes,Access Point,Marca 8
+9,Producto 9,Componentes,CPU,Marca 4
+10,Producto 10,Redes,Switch,Marca 2
+11,Producto 11,Periféricos,Teclado,Marca 8
+12,Producto 12,Componentes,RAM,Marca 9
+13,Producto 13,Componentes,Disco SSD,Marca 3
+14,Producto 14,Audio,Auriculares,Marca 8
+15,Producto 15,Periféricos,Webcam,Marca 10
+16,Producto 16,Redes,Switch,Marca 6
+17,Producto 17,Computadoras,Notebook,Marca 5
+18,Producto 18,Computadoras,Notebook,Marca 8
+19,Producto 19,Componentes,Disco SSD,Marca 4
+20,Producto 20,Audio,Parlantes,Marca 10
+21,Producto 21,Audio,Auriculares,Marca 2
+22,Producto 22,Componentes,Disco SSD,Marca 1
+23,Producto 23,Audio,Auriculares,Marca 1
+24,Producto 24,Computadoras,All-in-One,Marca 8
+25,Producto 25,Audio,Micrófono,Marca 5
+26,Producto 26,Periféricos,Mouse,Marca 10
+27,Producto 27,Computadoras,All-in-One,Marca 3
+28,Producto 28,Periféricos,Mouse,Marca 8
+29,Producto 29,Computadoras,All-in-One,Marca 6
+30,Producto 30,Periféricos,Mouse,Marca 1
+31,Producto 31,Redes,Router,Marca 2
+32,Producto 32,Periféricos,Webcam,Marca 5
+33,Producto 33,Computadoras,All-in-One,Marca 5
+34,Producto 34,Audio,Auriculares,Marca 3
+35,Producto 35,Redes,Router,Marca 4
+36,Producto 36,Periféricos,Webcam,Marca 7
+37,Producto 37,Computadoras,All-in-One,Marca 1
+38,Producto 38,Componentes,CPU,Marca 1
+39,Producto 39,Computadoras,Notebook,Marca 3
+40,Producto 40,Redes,Access Point,Marca 6
+41,Producto 41,Audio,Parlantes,Marca 8
+42,Producto 42,Computadoras,PC Escritorio,Marca 3
+43,Producto 43,Redes,Router,Marca 6
+44,Producto 44,Audio,Auriculares,Marca 5
+45,Producto 45,Audio,Micrófono,Marca 9
+46,Producto 46,Periféricos,Monitor,Marca 5
+47,Producto 47,Computadoras,All-in-One,Marca 1
+48,Producto 48,Periféricos,Webcam,Marca 5
+49,Producto 49,Audio,Auriculares,Marca 9
+50,Producto 50,Redes,Switch,Marca 6

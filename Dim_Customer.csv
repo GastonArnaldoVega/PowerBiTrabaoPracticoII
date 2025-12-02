@@ -1,0 +1,301 @@
+CustomerID,CustomerName,Gender,AgeGroup,City,Country
+1,Cliente 1,Male,26-35,La Plata,Argentina
+2,Cliente 2,Female,60+,San Juan,Argentina
+3,Cliente 3,Female,46-60,Salta,Argentina
+4,Cliente 4,Male,46-60,San Juan,Argentina
+5,Cliente 5,Female,26-35,Mar del Plata,Argentina
+6,Cliente 6,Male,18-25,Córdoba,Argentina
+7,Cliente 7,Female,46-60,La Plata,Argentina
+8,Cliente 8,Male,36-45,Rosario,Argentina
+9,Cliente 9,Female,60+,Rosario,Argentina
+10,Cliente 10,Male,60+,Mendoza,Argentina
+11,Cliente 11,Female,46-60,Neuquén,Argentina
+12,Cliente 12,Female,18-25,Buenos Aires,Argentina
+13,Cliente 13,Male,36-45,Buenos Aires,Argentina
+14,Cliente 14,Female,26-35,La Plata,Argentina
+15,Cliente 15,Female,60+,La Plata,Argentina
+16,Cliente 16,Female,36-45,Rosario,Argentina
+17,Cliente 17,Male,46-60,Mendoza,Argentina
+18,Cliente 18,Male,26-35,Mar del Plata,Argentina
+19,Cliente 19,Female,46-60,Mendoza,Argentina
+20,Cliente 20,Female,26-35,Mar del Plata,Argentina
+21,Cliente 21,Female,26-35,Mar del Plata,Argentina
+22,Cliente 22,Female,60+,Córdoba,Argentina
+23,Cliente 23,Male,60+,La Plata,Argentina
+24,Cliente 24,Male,60+,Mendoza,Argentina
+25,Cliente 25,Female,36-45,La Plata,Argentina
+26,Cliente 26,Female,36-45,Rosario,Argentina
+27,Cliente 27,Male,26-35,La Plata,Argentina
+28,Cliente 28,Female,18-25,La Plata,Argentina
+29,Cliente 29,Male,26-35,Rosario,Argentina
+30,Cliente 30,Male,18-25,Neuquén,Argentina
+31,Cliente 31,Male,18-25,Córdoba,Argentina
+32,Cliente 32,Female,36-45,Buenos Aires,Argentina
+33,Cliente 33,Male,60+,La Plata,Argentina
+34,Cliente 34,Male,26-35,Mar del Plata,Argentina
+35,Cliente 35,Male,36-45,Mar del Plata,Argentina
+36,Cliente 36,Female,18-25,Rosario,Argentina
+37,Cliente 37,Male,60+,Neuquén,Argentina
+38,Cliente 38,Male,18-25,San Juan,Argentina
+39,Cliente 39,Male,60+,Neuquén,Argentina
+40,Cliente 40,Female,60+,Mendoza,Argentina
+41,Cliente 41,Male,60+,Rosario,Argentina
+42,Cliente 42,Female,26-35,Neuquén,Argentina
+43,Cliente 43,Male,46-60,Mar del Plata,Argentina
+44,Cliente 44,Female,46-60,Rosario,Argentina
+45,Cliente 45,Female,26-35,Rosario,Argentina
+46,Cliente 46,Male,36-45,Mendoza,Argentina
+47,Cliente 47,Male,26-35,Córdoba,Argentina
+48,Cliente 48,Female,18-25,La Plata,Argentina
+49,Cliente 49,Female,26-35,Mar del Plata,Argentina
+50,Cliente 50,Male,36-45,Neuquén,Argentina
+51,Cliente 51,Male,46-60,Salta,Argentina
+52,Cliente 52,Female,18-25,Córdoba,Argentina
+53,Cliente 53,Male,26-35,La Plata,Argentina
+54,Cliente 54,Female,26-35,La Plata,Argentina
+55,Cliente 55,Male,36-45,Córdoba,Argentina
+56,Cliente 56,Female,60+,Mar del Plata,Argentina
+57,Cliente 57,Male,46-60,Neuquén,Argentina
+58,Cliente 58,Female,36-45,La Plata,Argentina
+59,Cliente 59,Male,18-25,Córdoba,Argentina
+60,Cliente 60,Female,26-35,Mendoza,Argentina
+61,Cliente 61,Male,26-35,San Juan,Argentina
+62,Cliente 62,Female,46-60,La Plata,Argentina
+63,Cliente 63,Male,60+,San Juan,Argentina
+64,Cliente 64,Male,26-35,San Juan,Argentina
+65,Cliente 65,Male,36-45,Salta,Argentina
+66,Cliente 66,Male,46-60,Salta,Argentina
+67,Cliente 67,Female,46-60,La Plata,Argentina
+68,Cliente 68,Female,36-45,Rosario,Argentina
+69,Cliente 69,Female,46-60,Salta,Argentina
+70,Cliente 70,Female,60+,La Plata,Argentina
+71,Cliente 71,Female,60+,Salta,Argentina
+72,Cliente 72,Female,60+,La Plata,Argentina
+73,Cliente 73,Male,60+,Rosario,Argentina
+74,Cliente 74,Female,36-45,Rosario,Argentina
+75,Cliente 75,Male,60+,Buenos Aires,Argentina
+76,Cliente 76,Male,60+,Rosario,Argentina
+77,Cliente 77,Male,18-25,Neuquén,Argentina
+78,Cliente 78,Male,46-60,La Plata,Argentina
+79,Cliente 79,Male,18-25,Buenos Aires,Argentina
+80,Cliente 80,Female,18-25,Buenos Aires,Argentina
+81,Cliente 81,Female,26-35,San Juan,Argentina
+82,Cliente 82,Male,36-45,San Juan,Argentina
+83,Cliente 83,Female,18-25,Buenos Aires,Argentina
+84,Cliente 84,Female,36-45,Mar del Plata,Argentina
+85,Cliente 85,Male,36-45,Mar del Plata,Argentina
+86,Cliente 86,Male,26-35,Córdoba,Argentina
+87,Cliente 87,Male,46-60,Salta,Argentina
+88,Cliente 88,Male,26-35,Rosario,Argentina
+89,Cliente 89,Female,18-25,Salta,Argentina
+90,Cliente 90,Female,26-35,Córdoba,Argentina
+91,Cliente 91,Male,46-60,Mendoza,Argentina
+92,Cliente 92,Female,26-35,Neuquén,Argentina
+93,Cliente 93,Female,26-35,La Plata,Argentina
+94,Cliente 94,Female,36-45,Salta,Argentina
+95,Cliente 95,Female,18-25,Salta,Argentina
+96,Cliente 96,Male,26-35,Córdoba,Argentina
+97,Cliente 97,Female,60+,Buenos Aires,Argentina
+98,Cliente 98,Male,26-35,La Plata,Argentina
+99,Cliente 99,Female,36-45,Córdoba,Argentina
+100,Cliente 100,Male,26-35,Rosario,Argentina
+101,Cliente 101,Female,36-45,Buenos Aires,Argentina
+102,Cliente 102,Female,60+,Buenos Aires,Argentina
+103,Cliente 103,Female,36-45,Mendoza,Argentina
+104,Cliente 104,Female,36-45,Salta,Argentina
+105,Cliente 105,Male,18-25,San Juan,Argentina
+106,Cliente 106,Female,60+,Rosario,Argentina
+107,Cliente 107,Male,60+,Salta,Argentina
+108,Cliente 108,Female,18-25,Salta,Argentina
+109,Cliente 109,Male,18-25,Rosario,Argentina
+110,Cliente 110,Male,60+,Mendoza,Argentina
+111,Cliente 111,Male,60+,La Plata,Argentina
+112,Cliente 112,Male,36-45,Buenos Aires,Argentina
+113,Cliente 113,Male,18-25,Salta,Argentina
+114,Cliente 114,Female,18-25,Córdoba,Argentina
+115,Cliente 115,Female,46-60,Buenos Aires,Argentina
+116,Cliente 116,Male,46-60,San Juan,Argentina
+117,Cliente 117,Female,36-45,Córdoba,Argentina
+118,Cliente 118,Female,46-60,San Juan,Argentina
+119,Cliente 119,Female,46-60,San Juan,Argentina
+120,Cliente 120,Male,26-35,Mar del Plata,Argentina
+121,Cliente 121,Male,60+,Rosario,Argentina
+122,Cliente 122,Male,18-25,Rosario,Argentina
+123,Cliente 123,Female,26-35,San Juan,Argentina
+124,Cliente 124,Male,26-35,Buenos Aires,Argentina
+125,Cliente 125,Male,36-45,San Juan,Argentina
+126,Cliente 126,Male,26-35,Mendoza,Argentina
+127,Cliente 127,Female,26-35,San Juan,Argentina
+128,Cliente 128,Female,60+,Rosario,Argentina
+129,Cliente 129,Male,36-45,Mendoza,Argentina
+130,Cliente 130,Male,36-45,Salta,Argentina
+131,Cliente 131,Male,26-35,San Juan,Argentina
+132,Cliente 132,Female,36-45,Córdoba,Argentina
+133,Cliente 133,Female,18-25,Mendoza,Argentina
+134,Cliente 134,Female,36-45,Neuquén,Argentina
+135,Cliente 135,Female,26-35,Rosario,Argentina
+136,Cliente 136,Male,36-45,Salta,Argentina
+137,Cliente 137,Male,46-60,Rosario,Argentina
+138,Cliente 138,Female,26-35,Buenos Aires,Argentina
+139,Cliente 139,Female,46-60,Buenos Aires,Argentina
+140,Cliente 140,Female,18-25,Mendoza,Argentina
+141,Cliente 141,Female,18-25,Córdoba,Argentina
+142,Cliente 142,Female,36-45,Salta,Argentina
+143,Cliente 143,Male,26-35,Rosario,Argentina
+144,Cliente 144,Male,26-35,Salta,Argentina
+145,Cliente 145,Male,26-35,Mendoza,Argentina
+146,Cliente 146,Male,46-60,Rosario,Argentina
+147,Cliente 147,Female,26-35,La Plata,Argentina
+148,Cliente 148,Female,60+,La Plata,Argentina
+149,Cliente 149,Male,18-25,Buenos Aires,Argentina
+150,Cliente 150,Male,60+,San Juan,Argentina
+151,Cliente 151,Female,36-45,Mar del Plata,Argentina
+152,Cliente 152,Male,26-35,Mendoza,Argentina
+153,Cliente 153,Female,36-45,La Plata,Argentina
+154,Cliente 154,Female,26-35,Neuquén,Argentina
+155,Cliente 155,Female,36-45,La Plata,Argentina
+156,Cliente 156,Female,18-25,La Plata,Argentina
+157,Cliente 157,Female,18-25,Salta,Argentina
+158,Cliente 158,Female,18-25,Mar del Plata,Argentina
+159,Cliente 159,Male,46-60,Mendoza,Argentina
+160,Cliente 160,Male,60+,Mendoza,Argentina
+161,Cliente 161,Female,18-25,Neuquén,Argentina
+162,Cliente 162,Female,46-60,La Plata,Argentina
+163,Cliente 163,Female,46-60,San Juan,Argentina
+164,Cliente 164,Female,18-25,San Juan,Argentina
+165,Cliente 165,Female,46-60,Neuquén,Argentina
+166,Cliente 166,Male,18-25,Buenos Aires,Argentina
+167,Cliente 167,Male,36-45,San Juan,Argentina
+168,Cliente 168,Female,46-60,Mar del Plata,Argentina
+169,Cliente 169,Male,36-45,Neuquén,Argentina
+170,Cliente 170,Female,60+,Mar del Plata,Argentina
+171,Cliente 171,Female,60+,Córdoba,Argentina
+172,Cliente 172,Female,46-60,Córdoba,Argentina
+173,Cliente 173,Male,26-35,Salta,Argentina
+174,Cliente 174,Male,60+,Mar del Plata,Argentina
+175,Cliente 175,Female,26-35,Córdoba,Argentina
+176,Cliente 176,Female,46-60,Rosario,Argentina
+177,Cliente 177,Female,18-25,Mar del Plata,Argentina
+178,Cliente 178,Male,36-45,Rosario,Argentina
+179,Cliente 179,Male,60+,Buenos Aires,Argentina
+180,Cliente 180,Male,60+,San Juan,Argentina
+181,Cliente 181,Male,46-60,Mar del Plata,Argentina
+182,Cliente 182,Female,26-35,Salta,Argentina
+183,Cliente 183,Male,60+,Mar del Plata,Argentina
+184,Cliente 184,Female,60+,Mar del Plata,Argentina
+185,Cliente 185,Male,18-25,Mar del Plata,Argentina
+186,Cliente 186,Female,26-35,Neuquén,Argentina
+187,Cliente 187,Female,36-45,Rosario,Argentina
+188,Cliente 188,Male,46-60,Mar del Plata,Argentina
+189,Cliente 189,Female,46-60,Buenos Aires,Argentina
+190,Cliente 190,Female,46-60,Buenos Aires,Argentina
+191,Cliente 191,Female,26-35,Salta,Argentina
+192,Cliente 192,Male,46-60,Mendoza,Argentina
+193,Cliente 193,Female,18-25,La Plata,Argentina
+194,Cliente 194,Female,18-25,Rosario,Argentina
+195,Cliente 195,Female,18-25,Mar del Plata,Argentina
+196,Cliente 196,Male,60+,Córdoba,Argentina
+197,Cliente 197,Female,60+,Salta,Argentina
+198,Cliente 198,Female,60+,Córdoba,Argentina
+199,Cliente 199,Male,46-60,Salta,Argentina
+200,Cliente 200,Female,46-60,Mar del Plata,Argentina
+201,Cliente 201,Male,60+,Buenos Aires,Argentina
+202,Cliente 202,Female,46-60,Buenos Aires,Argentina
+203,Cliente 203,Female,26-35,Córdoba,Argentina
+204,Cliente 204,Female,46-60,Buenos Aires,Argentina
+205,Cliente 205,Female,46-60,Mar del Plata,Argentina
+206,Cliente 206,Female,26-35,San Juan,Argentina
+207,Cliente 207,Female,46-60,Mar del Plata,Argentina
+208,Cliente 208,Male,26-35,Neuquén,Argentina
+209,Cliente 209,Female,18-25,San Juan,Argentina
+210,Cliente 210,Female,26-35,San Juan,Argentina
+211,Cliente 211,Male,26-35,Salta,Argentina
+212,Cliente 212,Male,60+,Buenos Aires,Argentina
+213,Cliente 213,Female,18-25,San Juan,Argentina
+214,Cliente 214,Female,36-45,Córdoba,Argentina
+215,Cliente 215,Male,26-35,Neuquén,Argentina
+216,Cliente 216,Male,46-60,La Plata,Argentina
+217,Cliente 217,Male,18-25,Mar del Plata,Argentina
+218,Cliente 218,Male,46-60,Buenos Aires,Argentina
+219,Cliente 219,Female,36-45,San Juan,Argentina
+220,Cliente 220,Female,46-60,Buenos Aires,Argentina
+221,Cliente 221,Female,46-60,Mendoza,Argentina
+222,Cliente 222,Male,46-60,La Plata,Argentina
+223,Cliente 223,Female,60+,La Plata,Argentina
+224,Cliente 224,Male,26-35,Mendoza,Argentina
+225,Cliente 225,Female,60+,Buenos Aires,Argentina
+226,Cliente 226,Male,36-45,San Juan,Argentina
+227,Cliente 227,Female,46-60,Mar del Plata,Argentina
+228,Cliente 228,Female,46-60,La Plata,Argentina
+229,Cliente 229,Male,46-60,Salta,Argentina
+230,Cliente 230,Male,18-25,La Plata,Argentina
+231,Cliente 231,Male,36-45,Mar del Plata,Argentina
+232,Cliente 232,Female,46-60,Mendoza,Argentina
+233,Cliente 233,Male,60+,Neuquén,Argentina
+234,Cliente 234,Male,36-45,Salta,Argentina
+235,Cliente 235,Male,26-35,Rosario,Argentina
+236,Cliente 236,Male,46-60,Buenos Aires,Argentina
+237,Cliente 237,Male,18-25,Mar del Plata,Argentina
+238,Cliente 238,Female,18-25,Córdoba,Argentina
+239,Cliente 239,Female,26-35,Buenos Aires,Argentina
+240,Cliente 240,Male,60+,La Plata,Argentina
+241,Cliente 241,Female,46-60,Mendoza,Argentina
+242,Cliente 242,Female,36-45,Neuquén,Argentina
+243,Cliente 243,Male,46-60,Córdoba,Argentina
+244,Cliente 244,Male,36-45,La Plata,Argentina
+245,Cliente 245,Male,26-35,Neuquén,Argentina
+246,Cliente 246,Female,60+,Rosario,Argentina
+247,Cliente 247,Male,46-60,La Plata,Argentina
+248,Cliente 248,Male,46-60,La Plata,Argentina
+249,Cliente 249,Male,18-25,Mendoza,Argentina
+250,Cliente 250,Female,18-25,San Juan,Argentina
+251,Cliente 251,Male,18-25,Mar del Plata,Argentina
+252,Cliente 252,Female,60+,Mendoza,Argentina
+253,Cliente 253,Male,36-45,Mendoza,Argentina
+254,Cliente 254,Female,18-25,La Plata,Argentina
+255,Cliente 255,Male,46-60,La Plata,Argentina
+256,Cliente 256,Female,46-60,Neuquén,Argentina
+257,Cliente 257,Male,46-60,Mar del Plata,Argentina
+258,Cliente 258,Female,46-60,Buenos Aires,Argentina
+259,Cliente 259,Female,36-45,La Plata,Argentina
+260,Cliente 260,Male,18-25,Buenos Aires,Argentina
+261,Cliente 261,Female,46-60,La Plata,Argentina
+262,Cliente 262,Male,36-45,Mendoza,Argentina
+263,Cliente 263,Male,18-25,San Juan,Argentina
+264,Cliente 264,Female,18-25,Salta,Argentina
+265,Cliente 265,Female,36-45,Neuquén,Argentina
+266,Cliente 266,Female,18-25,Buenos Aires,Argentina
+267,Cliente 267,Male,26-35,Neuquén,Argentina
+268,Cliente 268,Male,46-60,Neuquén,Argentina
+269,Cliente 269,Female,26-35,San Juan,Argentina
+270,Cliente 270,Female,36-45,Mendoza,Argentina
+271,Cliente 271,Male,26-35,Buenos Aires,Argentina
+272,Cliente 272,Male,36-45,Mar del Plata,Argentina
+273,Cliente 273,Female,18-25,Mar del Plata,Argentina
+274,Cliente 274,Male,36-45,San Juan,Argentina
+275,Cliente 275,Female,36-45,Rosario,Argentina
+276,Cliente 276,Female,46-60,Rosario,Argentina
+277,Cliente 277,Male,36-45,Buenos Aires,Argentina
+278,Cliente 278,Male,60+,Mendoza,Argentina
+279,Cliente 279,Male,36-45,Neuquén,Argentina
+280,Cliente 280,Male,46-60,Buenos Aires,Argentina
+281,Cliente 281,Female,26-35,Salta,Argentina
+282,Cliente 282,Male,26-35,Rosario,Argentina
+283,Cliente 283,Male,26-35,La Plata,Argentina
+284,Cliente 284,Female,18-25,Neuquén,Argentina
+285,Cliente 285,Male,46-60,Córdoba,Argentina
+286,Cliente 286,Male,26-35,Mendoza,Argentina
+287,Cliente 287,Female,60+,Neuquén,Argentina
+288,Cliente 288,Female,46-60,San Juan,Argentina
+289,Cliente 289,Male,46-60,Buenos Aires,Argentina
+290,Cliente 290,Male,26-35,Salta,Argentina
+291,Cliente 291,Female,46-60,Córdoba,Argentina
+292,Cliente 292,Female,18-25,San Juan,Argentina
+293,Cliente 293,Female,46-60,Rosario,Argentina
+294,Cliente 294,Male,36-45,Rosario,Argentina
+295,Cliente 295,Female,36-45,Neuquén,Argentina
+296,Cliente 296,Male,26-35,Mendoza,Argentina
+297,Cliente 297,Female,18-25,Buenos Aires,Argentina
+298,Cliente 298,Female,18-25,Mar del Plata,Argentina
+299,Cliente 299,Female,26-35,La Plata,Argentina
+300,Cliente 300,Male,46-60,Rosario,Argentina
